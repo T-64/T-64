@@ -8,11 +8,6 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px"/> <strong>ads-serving algorithms by day · 3D Gaussian Splatting by night · Kaggle on weekends</strong>
   </p>
 </div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=T-64&theme=vue&hide_border=true&short_numbers=true" alt="streak" />
-</div>
-
 <table>
 <tr>
 <td valign="top" width="50%">
