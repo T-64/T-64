@@ -10,8 +10,7 @@
 </div>
 
 <div align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=T-64&show_icons=true&theme=vue&hide_border=true&count_private=true&show_rank=true" alt="stats" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-64&layout=compact&theme=vue&hide_border=true&langs_count=8" alt="langs" />
+  <img height="170" src="https://streak-stats.demolab.com?user=T-64&theme=vue&hide_border=true&short_numbers=true" alt="streak" />
 </div>
 
 <table>
@@ -64,11 +63,7 @@
 ## 🛠️
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java,ts,mysql,docker,kafka,linux,git,githubactions,gradia&perline=12" alt="stack" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T-64&theme=discord&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java,ts,mysql,docker,kafka,linux,git,githubactions,vscode&perline=12" alt="stack" />
 </div>
 
 ## 🐍
