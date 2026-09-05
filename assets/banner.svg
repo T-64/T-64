@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- window -->
+  <rect x="1" y="1" width="998" height="358" rx="14" fill="url(#bg)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="40" rx="14" fill="#161b22"/>
+  <line x1="1" y1="41" x2="999" y2="41" stroke="#30363d" stroke-width="1"/>
+
+  <!-- traffic lights + title -->
+  <circle cx="30" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="21" r="6" fill="#27c93f"/>
+  <text x="500" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">t-64@github: ~/profile</text>
+
+  <!-- prompt -->
+  <text x="36" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="bold">
+    <tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3" dx="8">nvidia-smi --query-gpu=T-64</tspan>
+  </text>
+  <text x="36" y="106" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">research · inference · rendering — one card, no idle time</text>
+
+  <!-- process panel -->
+  <rect x="36" y="124" width="928" height="196" rx="10" fill="#161b22" stroke="#30363d"/>
+  <text x="56" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e" letter-spacing="3">PROCESS LIST</text>
+  <text x="944" y="152" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e">sched: fair-share</text>
+
+  <!-- row 1 -->
+  <text x="56" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="bold" fill="#e6edf3">3dgs-rgbd-slam</text>
+  <rect x="430" y="188" width="120" height="20" rx="10" fill="#d29922"/>
+  <text x="490" y="202" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="bold" fill="#0d1117">UNDER REVIEW</text>
+  <text x="575" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">1st author · SOTA rendering (TUM / Replica / ScanNet)</text>
+
+  <!-- row 2 -->
+  <text x="56" y="234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="bold" fill="#e6edf3">ads-gpu-inference</text>
+  <rect x="430" y="220" width="120" height="20" rx="10" fill="#3fb950"/>
+  <text x="490" y="234" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="bold" fill="#0d1117">RUNNING</text>
+  <text x="575" y="234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">digital-human serving · 500k+ advertisers</text>
+
+  <!-- row 3 -->
+  <text x="56" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="bold" fill="#e6edf3">kaggle-solver</text>
+  <rect x="430" y="252" width="120" height="20" rx="10" fill="#58a6ff"/>
+  <text x="490" y="266" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="bold" fill="#0d1117">2 MEDALS</text>
+  <text x="575" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">silver 49/1516 · bronze 101/1680 · all solo</text>
+
+  <!-- row 4 -->
+  <text x="56" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="bold" fill="#e6edf3">open-source</text>
+  <rect x="430" y="284" width="120" height="20" rx="10" fill="#bc8cff"/>
+  <text x="490" y="298" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="bold" fill="#0d1117">SHIPPED</text>
+  <text x="575" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e">fact-checker · cognitive map · daily lessons</text>
+
+  <!-- footer -->
+  <text x="36" y="344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8b949e">// INFOTECH · University of Stuttgart — M.Sc. in progress</text>
+  <rect x="36" y="352" width="200" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
