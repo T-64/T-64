@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="T-64 · process list" width="860" />
+  <img src="assets/banner.svg?v=2" alt="T-64 · process list" width="860" />
 </div>
 
 ## ▷ abstract
