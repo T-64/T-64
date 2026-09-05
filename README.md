@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg?v=5" alt="T-64" width="900" />
+  <img src="assets/banner.svg?v=6" alt="T-64" width="900" />
 </div>
 
 <div align="center">
