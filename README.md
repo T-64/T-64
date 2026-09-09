@@ -17,19 +17,6 @@ M.Sc. INFOTECH student at the University of Stuttgart · Research in 3D vision �
 - Dense RGB-D SLAM with 3D Gaussian Splatting; state-of-the-art rendering on TUM-RGBD, Replica, ScanNet
 - RGB-Opacity attribute · RGB-driven Gaussian expansion · edge loss for low-texture regions
 
-### Experience
-
-**Tencent — Search Ads (AMS)** · algorithm intern · 2026.01 – present
-
-- Real-time ad-budget depletion forecast, streaming features + two-stage boosting, serving **500k+ advertisers**
-- Multi-agent workflow replacing monolithic agent logic
-- Digital-human inference service: tests, diagnosis tooling, architecture onboarding guide
-
-**Huawei — Cloud Network** · SWE intern · 2025.07 – 2025.10
-
-- Active network-probing scheduler: **−20% task churn** at >95% coverage
-- Parallel-sharded query engine over **>100M daily records**
-
 ### Open source
 
 - [bili-fact-checker](https://github.com/T-64/bili-fact-checker) — turn videos into auditable, evidence-backed reports
@@ -49,6 +36,11 @@ M.Sc. INFOTECH student at the University of Stuttgart · Research in 3D vision �
 
 Details in [Awards.md](Awards.md)
 
+### Internships
+
+- **Tencent** — search-ads algorithm intern · budget forecast for 500k+ advertisers
+- **Huawei** — cloud-network SWE intern · scheduler with −20% task churn
+
 ### Stack
 
 `Python` `PyTorch` `C++` `CUDA`
@@ -61,7 +53,6 @@ Details in [Awards.md](Awards.md)
 - M.Sc. INFOTECH, Uni Stuttgart
 - Paper under review
 - German A2 → B1
-- Building in public
 
 </td>
 </tr>
