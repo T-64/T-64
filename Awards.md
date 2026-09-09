@@ -14,6 +14,8 @@
 
 | | Contest | Rank | When | Notes |
 |---|---|---|---|---|
+| 🥈 **2nd Place** | [Trillion-token Corpus Dedup — Alibaba Cloud × NVIDIA "Data+AI" Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448/) | **2 / 1028** teams | 2026.03 | Trillion-scale web-corpus cleaning track · [certificate](https://tianchi.aliyun.com/competition/certificate/532448/1095281052950/1723) |
+| 🏅 **6th Place** | [Agent Building track — same challenge](https://tianchi.aliyun.com/competition/entrance/532448/) | 6 / 1028 teams | 2026.03 | LLM-Agent engineering track · [certificate](https://tianchi.aliyun.com/competition/certificate/532448/1095281052950/1751) |
 | 🏅 **Top 2%** | [Tencent Advertising Algorithm Contest](https://algo.qq.com/2025) | **29 / 1334** | 2025.10 | Real-scale ads conversion/ranking problem, judged by Tencent AMS engineers |
 
 ## 🎓 Academic
@@ -27,5 +29,6 @@
 ## 🧰 What the grind looked like
 
 - 4 Kaggle competitions, 2 medals, all solo runs — evenings and weekends, on a single GPU
+- Alibaba Cloud × NVIDIA "Data+AI" Global Challenge: 2nd & 6th of 1,028 teams across two tracks
 - Every solution reproducible: fixed seeds, versioned features, written post-mortems
 - Favorite lesson from silver: *when everyone has the same model, the edge is in the data pipeline*
