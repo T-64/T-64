@@ -1,4 +1,4 @@
-Hey! I'm **T-64**, an ML & systems engineer — first author of a 3D Gaussian Splatting SLAM paper (under review), currently algorithm intern for search-ads GPU inference at **Tencent**. Incoming M.Sc. INFOTECH student at the **University of Stuttgart**. I build with **Python · PyTorch · C++ · CUDA**, and I care about making every result reproducible.
+Hey! I'm **T-64**, an M.Sc. INFOTECH student at the **University of Stuttgart** — Beijing → Stuttgart. I research 3D Gaussian Splatting for RGB-D SLAM, previously interned at **Tencent** (search-ads inference) and **Huawei** (cloud network), and build side projects with **Python · PyTorch · C++**. I care about making every result reproducible.
 
 <table width="1000px" cellspacing="0" cellpadding="0">
 <tr>

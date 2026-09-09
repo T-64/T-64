@@ -19,7 +19,7 @@
 ## 🎓 Academic
 
 - 🎖 **Academic Scholarship** — Beijing Jiaotong University, 2023
-- 📄 **First-author paper** — *Unleashing the Power of RGB-Opacity of Gaussians for Dense RGB-D SLAM* (under review, submission #4633)
+- 📄 **First-author research** — *Unleashing the Power of RGB-Opacity of Gaussians for Dense RGB-D SLAM*
   - State-of-the-art rendering quality on **TUM-RGBD / Replica / ScanNet**
   - Proposed the RGB-Opacity attribute, RGB-driven Gaussian expansion, and an edge loss for low-texture regions
 - 🌏 **IELTS 7.5** (Listening 8.0 / Reading 8.0)
