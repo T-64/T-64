@@ -14,8 +14,8 @@
 
 | | Contest | Rank | When | Notes |
 |---|---|---|---|---|
-| 🥈 **2nd Place** | [Trillion-token Corpus Dedup — Alibaba Cloud × NVIDIA "Data+AI" Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448/) | **2 / 1028** teams | 2026.03 | Trillion-scale web-corpus cleaning track |
-| 🏅 **6th Place** | [Agent Building track — same challenge](https://tianchi.aliyun.com/competition/entrance/532448/) | 6 / 1028 teams | 2026.03 | LLM-Agent engineering track |
+| 🥈 **2nd Place** | [Trillion-Token Corpus Dedup — Alibaba Cloud × NVIDIA Data+AI Engineer Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448) | **2 / 1028** teams | 2026.03 | Top 0.2% · RMB 20k+ cash prize |
+| 🏅 **6th Place** | [AI Agent Construction track — same challenge](https://tianchi.aliyun.com/competition/entrance/532448) | 6 / 1028 teams | 2026.03 | LLM-Agent engineering track |
 | 🏅 **Top 2%** | [Tencent Advertising Algorithm Contest](https://algo.qq.com/2025) | **29 / 1334** | 2025.10 | Real-scale ads conversion/ranking problem, judged by Tencent AMS engineers |
 
 ## 🎓 Academic
