@@ -1,22 +1,20 @@
-# Hi, I'm T-64
+# Hi, I'm Zhaoqing
 
 ## About
 
-- **Education** — M.Sc. INFOTECH, University of Stuttgart (from Oct 2026) · B.Sc. CS, Beijing Jiaotong University · GPA 1.4 (German scale)
-- **Research** — first-author manuscript: 3D Gaussian Splatting for dense RGB-D SLAM — outperforms SplaTAM & GS-SLAM on TUM-RGBD / Replica / ScanNet
+- **Education** — M.Sc. INFOTECH, University of Stuttgart (from Oct 2026) · B.Sc. CS, Beijing Jiaotong University 
+- **Research** — first-author manuscript: 3D Gaussian Splatting for dense RGB-D SLAM 
 - **Internships** — Tencent, search-ads algorithm intern (Jan – Aug 2026) · Huawei, cloud-network SWE intern (Jul – Oct 2025)
 - **Focus** — ML systems · data pipelines · reproducible research
 - **Now** — Beijing → Stuttgart · German A1 → A2
 
 ## Competition
 
-- 🥈 **2nd Place** — Trillion-Token Corpus Dedup, [Alibaba Cloud × NVIDIA Data+AI Engineer Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448) · **2/1028 teams** (Top 0.2%)
+- **2nd Place** — Trillion-Token Corpus Dedup, [Alibaba Cloud × NVIDIA Data+AI Engineer Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448) · **2/1028 teams** (Top 0.2%)
 - **6th Place** — AI Agent Construction track, same challenge · 6/1028 teams
 - **Top 2%** — [Tencent Advertising Algorithm Contest](https://algo.qq.com/2025) · 29/1334
 - **Top 1.6%** — [DRW Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction) · 18/1091
-- 🥈 **Kaggle Silver** — [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding) · 49/1516
-
-Full table → [Awards.md](Awards.md)
+- **Kaggle Silver** — [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding) · 49/1516
 
 ## Projects
 
