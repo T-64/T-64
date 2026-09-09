@@ -24,8 +24,8 @@
 
 ## Competition
 
-- 🥈 **2nd Place** — Trillion-token Corpus Dedup, [Alibaba Cloud × NVIDIA "Data+AI" Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448/) · **2/1028 teams** · [certificate](https://tianchi.aliyun.com/competition/certificate/532448/1095281052950/1723)
-- **6th Place** — Agent Building track, same challenge · 6/1028 teams · [certificate](https://tianchi.aliyun.com/competition/certificate/532448/1095281052950/1751)
+- 🥈 **2nd Place** — Trillion-token Corpus Dedup, [Alibaba Cloud × NVIDIA "Data+AI" Global Challenge](https://tianchi.aliyun.com/competition/entrance/532448/) · **2/1028 teams**
+- **6th Place** — Agent Building track, same challenge · 6/1028 teams
 - 🥈 **Kaggle Silver** — [Stanford RNA 3D Folding](https://www.kaggle.com/competitions/stanford-rna-3d-folding) · 49/1516
 - 🥉 **Kaggle Bronze** — [UM Game-Playing Strength of MCTS variants](https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants) · 101/1680
 - **Top 1.6%** — [DRW Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction) · 18/1091
