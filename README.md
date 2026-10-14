@@ -6,7 +6,7 @@
 - **Research** — first-author manuscript: 3D Gaussian Splatting for dense RGB-D SLAM 
 - **Internships** — Tencent, search-ads algorithm intern (Jan – Aug 2026) · Huawei, cloud-network SWE intern (Jul – Oct 2025)
 - **Focus** — ML systems · data pipelines · reproducible research
-- **Now** — Beijing → Stuttgart · German A1 → A2
+- **Now** — Beijing → Stuttgart 
 
 ## Competition
 
